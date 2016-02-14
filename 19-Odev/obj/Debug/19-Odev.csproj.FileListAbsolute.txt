@@ -1,0 +1,36 @@
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\bin\Debug\19-Odev.exe.config
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\bin\Debug\19-Odev.exe
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\bin\Debug\19-Odev.pdb
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\obj\Debug\_19_Odev.Form1.resources
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\obj\Debug\_19_Odev.Profil.resources
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\obj\Debug\_19_Odev.Properties.Resources.resources
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\obj\Debug\_19_Odev.YeniUrun.resources
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\obj\Debug\19-Odev.csproj.GenerateResource.Cache
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\obj\Debug\19-Odev.exe
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\obj\Debug\19-Odev.pdb
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\19-Odev\19-Odev\obj\Debug\19-Odev.csprojResolveAssemblyReference.cache
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\bin\Debug\19-Odev.exe.config
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\bin\Debug\19-Odev.exe
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\bin\Debug\19-Odev.pdb
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\19-Odev.csprojResolveAssemblyReference.cache
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\_19_Odev.Form1.resources
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\_19_Odev.Profil.resources
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\_19_Odev.Properties.Resources.resources
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\_19_Odev.YeniUrun.resources
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\19-Odev.csproj.GenerateResource.Cache
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\19-Odev.exe
+C:\Users\ramazan\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\19-Odev.pdb
+F:\wissen_akademie_odevler\19-Odev\19-Odev\bin\Debug\19-Odev.exe.config
+F:\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\19-Odev.exe
+F:\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\19-Odev.pdb
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\bin\Debug\19-Odev.exe.config
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\19-Odev.exe
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\19-Odev.pdb
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\bin\Debug\19-Odev.exe
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\bin\Debug\19-Odev.pdb
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\19-Odev.csprojResolveAssemblyReference.cache
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\_19_Odev.Properties.Resources.resources
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\19-Odev.csproj.GenerateResource.Cache
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\UrunlerOtomasyonu.Form1.resources
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\UrunlerOtomasyonu.Profil.resources
+C:\Users\hcrb__000\Documents\Visual Studio 2015\Projects\wissen_akademie_odevler\19-Odev\19-Odev\obj\Debug\UrunlerOtomasyonu.YeniUrun.resources
